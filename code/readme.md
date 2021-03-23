@@ -9,3 +9,7 @@ Blue pixel indicates: Aspect
 Green pixel indicates: Slope
 There is, by just looking at this colorful image, a trained eye can tell already what the altitude, what’s the slope, what’s the aspect. 
 So that’s the idea of loading some more meaning to these colors to indicate something more scientific.
+
+# Links:
+Heres YouTube video for explaination:
+https://youtu.be/5qJeYv-K8mQ
